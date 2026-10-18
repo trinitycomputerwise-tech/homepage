@@ -1,0 +1,46 @@
+CS50 Homepage - Specification
+
+HTML tags used:
+1. <nav> - Creates the navigation bar for moving between pages.
+2. <a> - Creates links between the different pages.
+3. <header> - Contains the main introductory section of the homepage.
+4. <main> - Contains the primary content of each webpage.
+5. <section> - Groups related content on the homepage.
+6. <article> - Contains individual information cards.
+7. <h1> - Displays the main heading of each page.
+8. <h2> - Displays secondary headings.
+9. <p> - Displays paragraphs of text.
+10. <ul> - Creates an unordered list of goals.
+11. <li> - Creates individual items in the list.
+12. <table> - Displays information about technologies.
+13. <thead> - Contains the table header.
+14. <tbody> - Contains the table body.
+15. <tr> - Creates table rows.
+16. <th> - Creates table header cells.
+17. <td> - Creates table data cells.
+18. <form> - Creates the contact form.
+19. <label> - Labels the form fields.
+20. <input> - Creates name and email input fields.
+21. <textarea> - Creates the message field.
+22. <button> - Creates interactive buttons.
+23. <footer> - Creates the footer of each page.
+
+CSS properties used:
+1. background-color - Sets background colors.
+2. color - Sets text colors.
+3. font-family - Sets the font used throughout the website.
+4. font-size - Controls the size of headings and text.
+5. margin - Controls spacing around elements.
+6. padding - Controls spacing inside elements.
+7. border-radius - Rounds the corners of cards and forms.
+8. box-shadow - Adds shadows to cards and forms.
+9. transform - Creates a hover animation for cards.
+10. min-height - Controls the minimum height of page content.
+
+JavaScript:
+JavaScript makes the website interactive by adding a welcome message,
+random facts, and interactive contact-form feedback.
+
+Bootstrap:
+Bootstrap is used for the responsive navigation bar, buttons, grid layout,
+table styling, form styling, alerts, and responsive behavior on mobile devices.
